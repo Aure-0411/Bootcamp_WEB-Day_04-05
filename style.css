@@ -537,7 +537,7 @@ ul {
     bottom: 0px;
     right: 3rem;
     width: 220px;
-    height: 300px;
+    height: auto;
     object-fit: cover;
     object-position: top;
     border-radius: 0px;
